@@ -17,7 +17,7 @@ public class Solution {
                 
             
 
-            throw new Exception("no value for two sums");
-            //return new int[]{0} ;
+            //throw new Exception("no value for two sums");
+            return new int[]{0} ;
     }
 }
